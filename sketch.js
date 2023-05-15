@@ -72,7 +72,7 @@ function enter(){
 
 	if (count == 45) {
  		txt = createDiv('');
-		var txt = createDiv("<a href='../hammering/index.html'style='color: white'target='_self'>NextPage-------></a>");
+		var txt = createDiv("<a href='./hammering/index.html'style='color: white'target='_self'>NextPage-------></a>");
 		txt.position(20,20);
 		txt.style('font-size', "15px")
 		txt.style('font-family', "monospace")
